@@ -1,6 +1,9 @@
 # Учебные проекты в рамках курса "Специалист по Data Science" от Yandex
 В данном репозитории размещены проекты, выполненные мной в рамках обучения на курсе "Специалист по Data Science" от Yandex Practicum
 
+## Инструменты
+pandas, numpy, scikit-learn, seaborn, matplotlib, statsmodels, tensorflow (keras)
+
 ## Описание проектов
 
 | Номер | Название проекта                      | Описание                                                              | Используемые инструменты                                                      |
