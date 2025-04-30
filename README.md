@@ -2,7 +2,7 @@
 В данном репозитории размещены проекты, выполненные мной в рамках обучения на курсе "Специалист по Data Science" от Yandex Practicum
 
 ## Инструменты
-pandas, numpy, scikit-learn, optuna, seaborn, matplotlib, statsmodels, tensorflow (keras)
+pandas, numpy, scikit-learn, optuna, seaborn, matplotlib, statsmodels, tensorflow (keras), catboost, lightgbm, transformers (BERT), nltk, wordcloud, hyperopt, pytorch, phik, shap, imblearn, scipy, bootstrap, polynomialfeatures
 
 ## Описание проектов
 
@@ -20,3 +20,4 @@ pandas, numpy, scikit-learn, optuna, seaborn, matplotlib, statsmodels, tensorflo
 | 4   | [Анализ рынка компьютерных игр для интернет-магазина "Стримчик"](project_04/)| Анализ закономерностей, определяющих успешность игры, на основе исторических данных о продажах игр, оценках пользователей и экспертов, жанрах и платформах. | Pandas, Numpy, Matplotlib, Seaborn, Scipy       |
 | 3   | [Анализ сервиса аренды самокатов GoFast](project_03/)| Анализ данных сервиса аренды самокатов для получения ключевых метрик, проверки гипотез и принятия обоснованных решений по улучшению сервиса и увеличению прибыли. | Pandas, Numpy, Matplotlib, Seaborn, Scipy       |
 | 2   | [Исследование объявлений о продаже квартир](project_02/)| Анализ объявлений о продаже квартир в Санкт-Петербурге и прилегающих населённых пунктах с целью выявления факторов, влияющих на рыночную стоимость недвижимости. | Pandas, Numpy, Matplotlib, Seaborn       |
+| 1   | [Исследование надежности заемщиков](project_01/)| Анализ влияния семейного положения и количества детей клиента на факт погашения кредита в срок на основе статистики о платёжеспособности клиентов. | Pandas, Matplotlib, Seaborn       |
